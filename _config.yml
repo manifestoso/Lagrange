@@ -1,5 +1,4 @@
 # Site Settings
-url:		     "https://robqiao.github.io/Lagrange/"
 
 paginate:            5
 
@@ -7,4 +6,11 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate]
+plugins:             [jekyll-paginate, jekyll-feed]
+
+# Jekyll feed settings
+title:		     "Lagrange Home"
+description: 	     "This blog is everything about Jekyll Theme Lagrange" 
+url:		     "https://robqiao.github.io/Lagrange/"
+auther:		     "LeNPaul"
+
