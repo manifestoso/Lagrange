@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-feed]
 # Jekyll feed settings
 title:		     "Lagrange Home"
 description: 	     "This blog is everything about Jekyll Theme Lagrange" 
-url:		     "https://robqiao.github.io/Lagrange"
+url:		     "https://robqiao.github.io"
 #baseurl:	     "/Lagrange"
 auther:		     "LeNPaul"
 
