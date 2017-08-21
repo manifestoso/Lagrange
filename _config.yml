@@ -12,6 +12,6 @@ plugins:             [jekyll-paginate, jekyll-feed]
 title:		     "Lagrange Home"
 description: 	     "This blog is everything about Jekyll Theme Lagrange" 
 url:		     "https://robqiao.github.io"
-#baseurl:	     "/Lagrange"
+baseurl:	     "/Lagrange"
 auther:		     "LeNPaul"
 
